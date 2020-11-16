@@ -1,0 +1,13 @@
+local Alignment = {
+	TopLeft = 0,
+	TopCenter = 1,
+	TopRight = 2,
+	MiddleLeft = 3,
+	MiddleCenter = 4,
+	MiddleRight = 5,
+	BottomLeft = 6,
+	BottomCenter = 7,
+	BottomRight = 9,
+}
+
+return Alignment
